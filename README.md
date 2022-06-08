@@ -14,7 +14,7 @@ Collection of websites for golang jobs in same place. PRs are welcome...
 * [Dice](http://dice.com)
 * [Monster](http://monster.com)
 * [Simply Hired](http://simplyhired.com)
-* [Toptal](https://toptal.com
+* [Toptal](https://toptal.com)
 * [Hired](https://hired.com)
 * [The Ladders](https://www.theladders.com/)
 * [CrunchBoard](https://www.crunchboard.com/jobs)
@@ -32,7 +32,7 @@ Collection of websites for golang jobs in same place. PRs are welcome...
 * [Remote Talent](http://remotetalent.co/jobs)
 * [JustRemote](https://justremote.co/remote-developer-jobs)
 * [RemoteLeaf](https://remoteleaf.com)
-* [Sitepoint]https://sitepoint.com/jobs/)
+* [Sitepoint](https://sitepoint.com/jobs/)
 * [AngelList](http://angel.co/jobs)
 * [Product Hunt](http://producthunt.com/jobs)
 * [Startup Hire](http://startuphire.com)
